@@ -1,0 +1,116 @@
+{
+    "Lectures": [
+      {
+        "Topic": "Progressive Web Apps (PWA)",
+        "Speaker": "Albin P.",
+        "Date": "2023-03-03T13:45:00",
+        "StartTime": "13:45:00",
+        "EndTime": "14:15:00",
+        "Description": "Progressive Web Apps (PWA) sind Webanwendungen, die das Beste aus Web- und App-Technologie kombinieren. PWAs sind so gestaltet, dass sie auf allen Geräten funktionieren, unabhängig von Betriebssystem oder Browser. Sie sind ressourcenschonend, da sie ohne Installation auskommen und direkt im Browser ausgeführt werden können. PWAs sind außerdem schnell, sicher und zuverlässig, da sie die neuesten Webtechnologien wie Service Worker, Web App Manifest und Push Notifications nutzen."
+      },
+      {
+        "Topic": "Model-View-Controller Design Pattern",
+        "Speaker": "Michelle H.",
+        "Date": "2023-03-03T14:15:00",
+        "StartTime": "14:15:00",
+        "EndTime": "14:45:00",
+        "Description": "Das Model-View-Controller (MVC) Design Pattern ist ein Software-Entwurfsmuster, das die Trennung von Datenmodellierung, Benutzeroberfläche und Anwendungslogik ermöglicht."
+      },
+      {
+        "Topic": "Matter als neues Funkprotokoll des Smart-Homes",
+        "Speaker": "Manuel C.",
+        "Date": "2023-03-03T14:45:00",
+        "StartTime": "14:45:00",
+        "EndTime": "15:15:00",
+        "Description": "Matter ist ein neues Funkprotokoll für das Smart-Home, das von führenden Unternehmen der Technologie- und Elektronikbranche wie Google, Apple, Amazon, Samsung und der Zigbee Alliance entwickelt wurde. Matter ist darauf ausgelegt, die Interoperabilität und Kompatibilität zwischen verschiedenen Smart-Home-Geräten und Plattformen zu verbessern."
+      },
+      {
+        "Topic": "Asp.net Framework",
+        "Speaker": "Jan N.",
+        "Date": "2023-03-03T15:30:00",
+        "StartTime": "15:30:00",
+        "EndTime": "16:00:00",
+        "Description": "ASP.NET ist ein Framework für die Entwicklung von Webanwendungen und -diensten, das von Microsoft entwickelt wurde. Es ermöglicht Entwicklern, dynamische und interaktive Webanwendungen zu erstellen, die auf verschiedenen Plattformen und Geräten laufen können."
+      },
+      {
+        "Topic": "AJAX",
+        "Speaker": "Noah M. und Ingo S.",
+        "Date": "2023-03-03T16:00:00",
+        "StartTime": "16:00:00",
+        "EndTime": "17:00:00",
+        "Description": "AJAX steht für <Asynchronous JavaScript and XML> und ist eine Technologie, die es ermöglicht, Daten von einem Webserver im Hintergrund asynchron zu laden und anzuzeigen, ohne dass die gesamte Seite neu geladen werden muss."
+      },
+      {
+        "Topic": "Selenium",
+        "Speaker": "Paula B. und Daniel G.",
+        "Date": "2023-03-07T13:45:00",
+        "StartTime": "13:45:00",
+        "EndTime": "14:45:00",
+        "Description": "Selenium ist ein Open-Source-Tool für die Automatisierung von Browser-Tests. Es ermöglicht Entwicklern und Testern, Skripte zu schreiben, um Webanwendungen automatisch zu testen und sicherzustellen, dass sie richtig funktionieren."
+      },
+      {
+        "Topic": "Vergleich von Bootstrap, Bulma und Skeleton",
+        "Speaker": "Susanne Y. und Timo W.",
+        "Date": "2023-03-07T14:45:00",
+        "StartTime": "14:45:00",
+        "EndTime": "16:00:00",
+        "Description": "Bootstrap, Bulma und Skeleton sind alle Frameworks für die Front-End-Entwicklung von Webanwendungen, die darauf ausgelegt sind, die Erstellung von Websites und Anwendungen zu vereinfachen."
+      },
+      {
+        "Topic": "React Framework",
+        "Speaker": "Moritz S. und Fabio W.",
+        "Date": "2023-03-21T13:45:00",
+        "StartTime": "13:45:00",
+        "EndTime": "14:45:00",
+        "Description": "React ist ein Open-Source-Framework für die Entwicklung von Benutzeroberflächen (UI) und Single-Page-Anwendungen (SPA). Es wurde von Facebook entwickelt und ist sehr beliebt bei der Entwicklung von Webanwendungen."
+      },
+      {
+        "Topic": "Next.js Framework",
+        "Speaker": "Jonas S. und Till S.",
+        "Date": "2023-03-21T13:45:00",
+        "StartTime": "13:45:00",
+        "EndTime": "14:45:00",
+        "Description": "Next.js ist ein React-basiertes Open-Source-Framework für die Entwicklung von serverseitig gerenderten React-Anwendungen. Es ermöglicht Entwicklern, React-Komponenten zu verwenden, um die Benutzeroberfläche von Webanwendungen zu erstellen, während gleichzeitig der Server Daten vorab berechnen und an den Browser senden kann, was zu schnelleren Seitenladegeschwindigkeiten führt."
+      },
+      {
+        "Topic": "REST",
+        "Speaker": "Simeon v.T.",
+        "Date": "2023-03-21T16:00:00",
+        "StartTime": "16:00:00",
+        "EndTime": "16:30:00",
+        "Description": "REST steht für <Representational State Transfer> und ist ein Architekturstil für die Entwicklung von Webanwendungen."
+      },
+      {
+        "Topic": "AWS",
+        "Speaker": "Robin S., Dustin V. und Raimo M.",
+        "Date": "2023-04-04T13:45:00",
+        "StartTime": "13:45:00",
+        "EndTime": "15:15:00",
+        "Description": "AWS steht für Amazon Web Services und ist ein Cloud-Computing-Plattformdienst, der von Amazon angeboten wird. AWS bietet eine breite Palette von Cloud-basierten Diensten, einschließlich der Bereitstellung von Computing-, Speicher-, Datenbank-, Analyse-, Netzwerk-, Entwicklungs-, Deployment-, Verwaltungs- und Sicherheitsdiensten."
+      },
+      {
+        "Topic": "Neo4J",
+        "Speaker": "Arne S.",
+        "Date": "2023-04-04T15:30:00",
+        "StartTime": "15:30:00",
+        "EndTime": "16:00:00",
+        "Description": "Neo4j ist ein Graphdatenbank-Management-System, das auf der NoSQL-Datenbank-Technologie basiert. Es ist darauf spezialisiert, komplexe und vernetzte Daten zu speichern und zu verwalten."
+      },
+      {
+        "Topic": "Ethernet",
+        "Speaker": "Lukas H.",
+        "Date": "2023-04-04T16:00:00",
+        "StartTime": "16:00:00",
+        "EndTime": "16:30:00",
+        "Description": "Ethernet ist ein Standard für kabelgebundene Computernetzwerke, der in der Regel für lokale Netzwerke (LAN) verwendet wird."
+      },
+      {
+        "Topic": "JWT",
+        "Speaker": "Amin B.",
+        "Date": "2023-04-04T16:30:00",
+        "StartTime": "16:30:00",
+        "EndTime": "17:00:00",
+        "Description": "JWT steht für JSON Web Token und ist ein offenes Standardformat für die sichere Übertragung von Informationen zwischen Parteien als JSON-Objekte."
+      }
+    ]
+  }
