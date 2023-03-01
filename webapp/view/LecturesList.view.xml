@@ -1,15 +1,42 @@
 <mvc:View
    controllerName="sap.ui.demo.webtech.controller.LecturesList"
    xmlns="sap.m"
-   xmlns:mvc="sap.ui.core.mvc">
-   <List
+   xmlns:core="sap.ui.core"
+   xmlns:mvc="sap.ui.core.mvc"
+   xmlns:form="sap.ui.layout.form">
+   <Table id="idLecturesTable"
       headerText="{i18n>lecturesListTitle}"
       class="sapUiResponsiveMargin"
       width="auto"
       items="{lecture>/Lectures}" >
+      <columns>
+         <Column>
+            <Text text="{i18n>ID}"/>
+         </Column>
+         <Column>
+            <Text text="{i18n>Topic}"/>
+         </Column>
+         <Column>
+            <Text text="{i18n>Speaker}"/>
+         </Column>
+         <Column hAlign="Right">
+            <Text text="{i18n>Date}"/>
+         </Column>
+      </columns>
       <items>
-         <ObjectListItem
-            title="{lecture>Topic} x {lecture>Speaker}"/>
+         <ColumnListItem vAlign="Middle">
+            <cells>
+               <ObjectIdentifier
+                  title="{ID}"
+                  text="{lecture>ID}"/>
+               <Text
+                  text="{lecture>Topic}"/>
+               <Text
+                  text="{lecture>Speaker}"/>
+               <Text
+                  text="{ path: 'lecture>Date', formatter: '.formatDate'}" />
+            </cells>
+         </ColumnListItem>
       </items>
-   </List>
+   </Table>
 </mvc:View>

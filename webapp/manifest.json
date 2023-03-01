@@ -11,7 +11,7 @@
         "applicationVersion": {
             "version": "1.0.0"
         },
-        "title": "{{appTitle>}}",
+        "title": "{{appTitle}}",
         "description": "{{appDescription}}"
     },
     "sap.ui": {
@@ -54,9 +54,9 @@
                 "fallbackLocale": ""
               }
             },
-            "invoice": {
+            "lecture": {
               "type": "sap.ui.model.json.JSONModel",
-              "uri": "Invoices.json"
+              "uri": "Lectures.json"
             }
           },
           "resources":{
