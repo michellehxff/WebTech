@@ -1,0 +1,15 @@
+<mvc:View
+   controllerName="sap.ui.demo.webtech.controller.LecturesList"
+   xmlns="sap.m"
+   xmlns:mvc="sap.ui.core.mvc">
+   <List
+      headerText="{i18n>lecturesListTitle}"
+      class="sapUiResponsiveMargin"
+      width="auto"
+      items="{lecture>/Lectures}" >
+      <items>
+         <ObjectListItem
+            title="{lecture>Topic} x {lecture>Speaker}"/>
+      </items>
+   </List>
+</mvc:View>
